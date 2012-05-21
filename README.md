@@ -1,4 +1,3 @@
-
 Tep Library
 ===========
 
@@ -14,3 +13,9 @@ Prinsip-prinsip yang digunakan oleh Tep adalah:
   * Interface segregation principle, the notion that “many client specific interfaces are better than one general purpose interface.”
   * Dependency inversion principle, the notion that one should “Depend upon Abstractions. Do not depend upon concretions.”[5]
     Dependency injection is one method of following this principle.
+
+
+
+
+Agus Suhartono
+TheEnterprisePhp.com
